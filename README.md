@@ -1,5 +1,3 @@
-# airbnb
-Software Engineering final project
 # 🏠 Airbnb Booking System – Software Engineering Project
 
 ## 🔖 Project Overview
