@@ -16,8 +16,7 @@ Software Engineering final project
 
 ## 🛠️ Tools used
 
-<span style="display:inline-block;background:#f7df1e;color:#000;padding:6px 12px;border-radius:16px;font-size:14px;margin:4px;">Visual Paradigm</span>
-<span style="display:inline-block;background:#24292e;color:#fff;padding:6px 12px;border-radius:16px;font-size:14px;margin:4px;">GitHub</span>
+[![My Skills](https://skillicons.dev/icons?i=git,github,discord)](https://skillicons.dev)
 
 ---
 
