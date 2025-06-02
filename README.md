@@ -14,8 +14,11 @@
 
 ## 🛠️ Tools used
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,discord)](https://skillicons.dev)
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,discord" alt="My Skills">
+  </a>
+</p>
 ---
 
 ## 🧩 Use Case Diagram
